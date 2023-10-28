@@ -8,9 +8,6 @@
  */
 
 
-
-
-
 /*-----------------------------------*\
   #CUSTOM PROPERTY
 \*-----------------------------------*/
@@ -116,10 +113,6 @@
   --transition-2: 0.5s ease-in-out;
 
 }
-
-
-
-
 
 /*-----------------------------------*\
   #RESET
@@ -307,12 +300,10 @@ article.active {
 }
 
 
-
-
-
 /*-----------------------------------*\
   #MAIN
 \*-----------------------------------*/
+
 
 main {
   margin: 15px 12px;
@@ -335,7 +326,7 @@ main {
   transition: var(--transition-2);
 }
 
-.sidebar.active { max-height: 405px; }
+.sidebar.active { max-height: 415px; }
 
 .sidebar-info {
   position: relative;
@@ -1718,7 +1709,8 @@ textarea.form-input::-webkit-resizer { display: none; }
 
   .sidebar, article {
     width: 950px;
-    box-shadow: var(--shadow-5);
+    box-shadow: var(--shadow-3);
+    /**box-shadow: var(--shadow-5);*/
   }
 
 
@@ -1947,4 +1939,8 @@ border-radius: 2%;
   display: inline;
   width: 240px;
   padding: 0 2px;
+}
+
+.avatar-box img {
+  border-radius: 15px;
 }
