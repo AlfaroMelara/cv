@@ -613,6 +613,11 @@ main {
   overflow: hidden;
 }
 
+#hl_color {
+  color: var(--orange-yellow-crayola);
+
+}
+
 
 /**
  * #testimonials-modal
@@ -1621,7 +1626,7 @@ textarea.form-input::-webkit-resizer { display: none; }
   }
 
   .modal-avatar-box img { 
-    padding: 6px;
+    padding: 7px;
     min-width: 80px;
     min-height: 80px;
     max-width: 80px;
