@@ -36,21 +36,7 @@
     },
     
 
-    {
-        "area": 2,
-        "genre": "Ciberseguridad",
-        "language": "es",
-        "prefix": "Curso",
-        "title": "Introducción a la Ciberseguridad",
-        "entity": "Cisco",
-        "hours": 2,
-        "date": "2024-05-25",
-        "expedition-date": "2024-06-25",
-        "link": "https://drive.google.com/file/d/1TNus0OmrkofP6Q6n1BCv_U49mdKJN3Ew/",
-        "serie": "666b0a32-502c-4edd-828e-a614c0fc9a59",
-        "modality": 0,
-        "type": 2
-    },
+
     {
         "area": 1,
         "genre": "Derecho",
@@ -335,6 +321,21 @@
         "serie": "6647e4ce-58dc-40ad-b5ad-7469c0fc9a59",
         "modality": 0,
         "type": 3
+    },
+    {
+        "area": 2,
+        "genre": "Ciberseguridad",
+        "language": "es",
+        "prefix": "Curso",
+        "title": "Introducción a la Ciberseguridad",
+        "entity": "Cisco",
+        "hours": 2,
+        "date": "2024-04-25",
+        "expedition-date": "2024-04-25",
+        "link": "https://drive.google.com/file/d/1TNus0OmrkofP6Q6n1BCv_U49mdKJN3Ew/",
+        "serie": "666b0a32-502c-4edd-828e-a614c0fc9a59",
+        "modality": 0,
+        "type": 2
     },
     {
         "area": 1,
@@ -1208,7 +1209,7 @@
         "hours": 1620,
         "start-date": "2022-01-12",
         "date": "2023-03-01",
-        "expedition-date": "2023-03-01",
+        "expedition-date": "2023-03-02",
         "link": "https://drive.google.com/file/d/1cDMRN0ETf66o1PjjAXSaf59mE3SeKGi8/",
         "serie": "324349",
         "modality": 0,
