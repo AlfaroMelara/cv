@@ -8,16 +8,14 @@
         "entity": "Universidad de Buenos Aires",
         "hours": 708,
         "start-date": "2023-02-02",
-        "date": "2025-",
-        "expedition-date": "2025-",
+        "date": "-",
+        "expedition-date": "-",
         "link": "https://drive.google.com/file/d/1I5utLzZ4Q1z1__9WEnyLjEAQg3jnWUQe/",
         "serie": "",
         "modality": 2,
-        "type": 1,
-        "hidden": 1
-    },    
+        "type": 1
+    },
     {
-
         "area": 1,
         "genre": "Derecho Municipal",
         "language": "es",
@@ -25,18 +23,53 @@
         "title": "Especialización en Derecho Municipal",
         "entity": "Universidad de Costa Rica",
         "hours": 96,
-        "start-date": "2024-",
-        "date": "2024-",
-        "expedition-date": "2024-",
+        "start-date": "2024-04-16",
+        "date": "-",
+        "expedition-date": "-",
         "link": "https://drive.google.com/file/d/13ar1GJqvh0duTfkAvm0baqfOkPxI4Z9n/",
         "serie": "",
         "modality": 0,
-        "type": 1,
-        "hidden": 1
+        "type": 1
     },
-    
-
-
+    {
+        "area": 1,
+        "type": 0,
+        "modality": 1,
+        "genre": "Derecho",
+        "language": "es",
+        "prefix": "",
+        "position": "Abogado",
+        "entity": "Independiente",
+        "hours": 8,
+        "start-date": "2022-09-22",
+        "end-date": "-"
+    },
+    {
+        "area": 3,
+        "type": 0,
+        "modality": 1,
+        "genre": "Servicio al cliente",
+        "language": "es",
+        "prefix": "",
+        "position": "Dependiente",
+        "entity": "Minisuper Milenium",
+        "hours": 4,
+        "start-date": "2023-01-30",
+        "end-date": "2023-09-03"
+    },
+    {
+        "area": 3,
+        "type": 0,
+        "modality": 1,
+        "genre": "Servicio al cliente",
+        "language": "es",
+        "prefix": "",
+        "position": "Dependiente",
+        "entity": "Minisuper Milenium",
+        "hours": 4,
+        "start-date": "2017-01-02",
+        "end-date": "2020-12-31"
+    },
     {
         "area": 1,
         "genre": "Derecho Laboral",
@@ -129,7 +162,7 @@
     },
     {
         "area": 1,
-        "genre": "Derecho",
+        "genre": "Derecho Penal",
         "language": "es",
         "prefix": "Charla",
         "title": "Teoría del Delito: Enfoque Práctico y Gráfico",
@@ -144,7 +177,7 @@
     },
     {
         "area": 1,
-        "genre": "Derecho",
+        "genre": "Derecho Civil",
         "language": "es",
         "prefix": "Charla",
         "title": "Los Herederos de Primer Grado en la Sucesión Legítima",
@@ -159,7 +192,7 @@
     },
     {
         "area": 1,
-        "genre": "Derecho",
+        "genre": "Derecho Cooperativo",
         "language": "es",
         "prefix": "Charla",
         "title": "Jurisprudencia Administrativa de Asambleas de Cooperativas",
@@ -174,7 +207,7 @@
     },
     {
         "area": 1,
-        "genre": "Derecho",
+        "genre": "Derecho Laboral",
         "language": "es",
         "prefix": "Charla",
         "title": "El Proceso Laboral Ordinario",
@@ -189,7 +222,7 @@
     },
     {
         "area": 1,
-        "genre": "Derecho",
+        "genre": "Derechos Humanos",
         "language": "es",
         "prefix": "Charla",
         "title": "Sistemas Internacionales de Protección de Derechos Humanos y sus mecanismos",
@@ -204,7 +237,7 @@
     },
     {
         "area": 1,
-        "genre": "Derecho",
+        "genre": "Derecho Agrario",
         "language": "es",
         "prefix": "Charla",
         "title": "Deslinde y Amojonamiento Civil y Agrario",
@@ -264,7 +297,7 @@
     },
     {
         "area": 1,
-        "genre": "Derecho",
+        "genre": "Derecho Municipal",
         "language": "es",
         "prefix": "Charla",
         "title": "Zona Marítimo Terrestre",
@@ -294,7 +327,7 @@
     },
     {
         "area": 1,
-        "genre": "Derecho",
+        "genre": "Derecho Civil",
         "language": "es",
         "prefix": "Charla",
         "title": "Generalidades del Proceso Ordinario en Materia Civil",
@@ -309,7 +342,7 @@
     },
     {
         "area": 1,
-        "genre": "Derecho",
+        "genre": "Derecho Civil",
         "language": "es",
         "prefix": "Charla",
         "title": "Conversatorio sobre Derecho Procesal Civil",
@@ -399,7 +432,7 @@
     },
     {
         "area": 1,
-        "genre": "Derecho",
+        "genre": "Derecho Municipal",
         "language": "es",
         "prefix": "Charla",
         "title": "Procedimiento Parlamentario Municipal",
@@ -429,7 +462,7 @@
     },
     {
         "area": 1,
-        "genre": "Derecho",
+        "genre": "Derecho Municipal",
         "language": "es",
         "prefix": "Charla",
         "title": "La participación del jerarca municipal en el control interno y régimen sancionatorio",
@@ -444,7 +477,7 @@
     },
     {
         "area": 1,
-        "genre": "Derecho",
+        "genre": "Derecho Constitucional",
         "language": "es",
         "prefix": "Charla",
         "title": "El rol del TSE como contralor de constitucionalidad y convencionalidad en la democracia electoral",
@@ -459,7 +492,7 @@
     },
     {
         "area": 1,
-        "genre": "Derecho",
+        "genre": "Derecho Constitucional",
         "language": "es",
         "prefix": "Charla",
         "title": "La interpretación constitucional y los valores supremos del ordenamiento",
@@ -474,7 +507,7 @@
     },
     {
         "area": 1,
-        "genre": "Derecho",
+        "genre": "Derecho Municipal",
         "language": "es",
         "prefix": "Charla",
         "title": "La Administración Tributaria Municipal",
@@ -519,7 +552,7 @@
     },
     {
         "area": 1,
-        "genre": "Derecho",
+        "genre": "Derecho Constitucional",
         "language": "es",
         "prefix": "Charla",
         "title": "Reflexiones sobre el Estado Constitucional de Derecho",
@@ -534,7 +567,7 @@
     },
     {
         "area": 1,
-        "genre": "Derecho",
+        "genre": "Derecho Municipal",
         "language": "es",
         "prefix": "Charla",
         "title": "La gestión territorial de la Municipalidad",
@@ -594,7 +627,7 @@
     },
     {
         "area": 1,
-        "genre": "Derecho",
+        "genre": "Derecho Familia",
         "language": "es",
         "prefix": "Charla",
         "title": "Teoría cautelar y sus implicaciones prácticas en los procesos de familia",
@@ -609,7 +642,7 @@
     },
     {
         "area": 1,
-        "genre": "Derecho",
+        "genre": "Compliance",
         "language": "es",
         "prefix": "Charla",
         "title": "Compliance: Diversidad e inclusión",
@@ -624,7 +657,7 @@
     },
     {
         "area": 1,
-        "genre": "Derecho",
+        "genre": "Derecho Familia",
         "language": "es",
         "prefix": "Charla",
         "title": "Tramitación de los procesos de filiación y estudio de sus diversas pretensiones",
@@ -684,7 +717,7 @@
     },
     {
         "area": 1,
-        "genre": "Derecho",
+        "genre": "Derecho Penal",
         "language": "es",
         "prefix": "Charla",
         "title": "Teoría del Caso: factibilidad, legalidad y probanza",
@@ -714,7 +747,7 @@
     },
     {
         "area": 1,
-        "genre": "Derecho",
+        "genre": "Derecho Agrario",
         "language": "es",
         "prefix": "Charla",
         "title": "Desahucio Agrario",
@@ -729,7 +762,7 @@
     },
     {
         "area": 1,
-        "genre": "Derecho",
+        "genre": "Derecho Civil",
         "language": "es",
         "prefix": "Charla",
         "title": "Monitorio Arrendaticio Civil",
@@ -744,7 +777,7 @@
     },
     {
         "area": 1,
-        "genre": "Derecho",
+        "genre": "Derecho Administrativo",
         "language": "es",
         "prefix": "Charla",
         "title": "Nuevos lineamientos de MIDEPLAN para aplicación de salario global en el Sector Público",
@@ -759,7 +792,7 @@
     },
     {
         "area": 1,
-        "genre": "Derecho",
+        "genre": "Derecho Penal",
         "language": "es",
         "prefix": "Charla",
         "title": "Iter Criminis y Tentativa",
@@ -774,7 +807,7 @@
     },
     {
         "area": 1,
-        "genre": "Derecho",
+        "genre": "Derecho Familia",
         "language": "es",
         "prefix": "Charla",
         "title": "Cuota Alimentaria Provisional y gastos de entrada a clases",
@@ -789,7 +822,7 @@
     },
     {
         "area": 1,
-        "genre": "Derecho",
+        "genre": "Derechos Humanos",
         "language": "es",
         "prefix": "Curso: ",
         "title": "Sistema Interamericano de Derechos Humanos",
@@ -805,7 +838,7 @@
     },
     {
         "area": 1,
-        "genre": "Derecho",
+        "genre": "Derecho Penal",
         "language": "es",
         "prefix": "Charla",
         "title": "Ciberdelitos & Prueba Pericial. Tratamiento de la evidencia digital",
@@ -820,7 +853,7 @@
     },
     {
         "area": 2,
-        "genre": "",
+        "genre": "Base de datos",
         "language": "es",
         "prefix": "Curso",
         "title": "SQL Interactivo",
@@ -836,7 +869,7 @@
     },
     {
         "area": 1,
-        "genre": "Derecho",
+        "genre": "Oralidad",
         "language": "es",
         "prefix": "Charla",
         "title": "Técnicas básicas de litigio oral",
@@ -851,7 +884,7 @@
     },
     {
         "area": 1,
-        "genre": "Derecho",
+        "genre": "Derecho Administrativo",
         "language": "es",
         "prefix": "Charla",
         "title": "Ley General de Contratación Pública a un año de su entrada en vigencia",
@@ -866,7 +899,7 @@
     },
     {
         "area": 1,
-        "genre": "Derecho",
+        "genre": "Derecho Municipal",
         "language": "es",
         "prefix": "Capacitación",
         "title": "Procedimientos sancionatorios y servidores municipales",
@@ -881,7 +914,7 @@
     },
     {
         "area": 1,
-        "genre": "Derecho",
+        "genre": "Derecho Notarial y Registral",
         "language": "es",
         "prefix": "Charla",
         "title": "Notariado: Deberes, debida diligencia y tareas indispensables",
@@ -896,7 +929,7 @@
     },
     {
         "area": 1,
-        "genre": "Derecho",
+        "genre": "Derecho Agrario",
         "language": "es",
         "prefix": "Charla",
         "title": "Acciones protectoras de la Propiedad y Otros Derechos Reales en el Proceso Agrario",
@@ -926,7 +959,7 @@
     },
     {
         "area": 1,
-        "genre": "Derecho",
+        "genre": "Derecho Familia",
         "language": "es",
         "prefix": "Charla",
         "title": "Funciones Administrativas del Juez de Familia",
@@ -1016,7 +1049,7 @@
     },
     {
         "area": 1,
-        "genre": "Derecho",
+        "genre": "Derecho Privado",
         "language": "es",
         "prefix": "Charla",
         "title": "Derecho Privado y Obligaciones",
@@ -1031,7 +1064,7 @@
     },
     {
         "area": 1,
-        "genre": "Derecho",
+        "genre": "Derecho Civil",
         "language": "es",
         "prefix": "Charla",
         "title": "Procesos Civiles",
@@ -1061,7 +1094,7 @@
     },
     {
         "area": 1,
-        "genre": "Derecho",
+        "genre": "Derecho Penal",
         "language": "es",
         "prefix": "Congreso",
         "title": "Las tendencias de la política criminal y el derecho penal en Iberoamérica",
@@ -1076,7 +1109,7 @@
     },
     {
         "area": 1,
-        "genre": "Derecho",
+        "genre": "Derecho Migratorio",
         "language": "es",
         "prefix": "Charla",
         "title": "Temas de actualidad del Derecho Migratorio y Derecho de Asilo",
@@ -1091,7 +1124,7 @@
     },
     {
         "area": 1,
-        "genre": "Derecho",
+        "genre": "Derecho Penal",
         "language": "es",
         "prefix": "Charla",
         "title": "Teoría del Delito",
@@ -1106,7 +1139,7 @@
     },
     {
         "area": 1,
-        "genre": "Derecho",
+        "genre": "Derecho Familia",
         "language": "es",
         "prefix": "Charla",
         "title": "Modificación de fallo dentro del Proceso Alimentario",
@@ -1121,7 +1154,7 @@
     },
     {
         "area": 1,
-        "genre": "Derecho",
+        "genre": "Derecho Notarial y Registral",
         "language": "es",
         "prefix": "Charla",
         "title": "Sucesorio Notarial",
@@ -1151,7 +1184,7 @@
     },
     {
         "area": 1,
-        "genre": "Derecho",
+        "genre": "Inglés Legal",
         "language": "es",
         "prefix": "Charla",
         "title": "Inglés Legal",
@@ -1181,7 +1214,7 @@
     },
     {
         "area": 1,
-        "genre": "Derecho",
+        "genre": "Derecho Cooperativo",
         "language": "es",
         "prefix": "Congreso",
         "title": "IV Congreso Internacional de Derecho Cooperativo",
@@ -1196,7 +1229,7 @@
     },
     {
         "area": 1,
-        "genre": "Derecho",
+        "genre": "Derecho Notarial y Registral",
         "language": "es",
         "prefix": "Charla",
         "title": "¿Cómo lograr la inscripción de documentos públicos sin defectos en el Registro Nacional?",
@@ -1240,10 +1273,10 @@
         "serie": "",
         "modality": 0,
         "type": 2
-    },    
+    },
     {
         "area": 1,
-        "genre": "Derecho",
+        "genre": "Derecho Notarial y Registral",
         "language": "es",
         "prefix": "Charla",
         "title": "Propiedad Intelectual",
@@ -1319,7 +1352,7 @@
         "serie": "422567c4d1e3339f9c141b14a65298fc8f5b65710814058b0e57f80ee579106c",
         "modality": 0,
         "type": 2
-    },   
+    },
     {
         "area": 2,
         "genre": "Programación",
@@ -1335,7 +1368,7 @@
         "serie": "",
         "modality": 0,
         "type": 2
-    },    
+    },
     {
         "area": 1,
         "genre": "Derecho",
@@ -1429,7 +1462,7 @@
     },
     {
         "area": 1,
-        "genre": "Derecho",
+        "genre": "Derecho Cooperativo",
         "language": "es",
         "prefix": "Congreso",
         "title": "lll Congreso Latinoamericano de Derecho Cooperativo",
@@ -1445,7 +1478,7 @@
     },
     {
         "area": 1,
-        "genre": "Derecho",
+        "genre": "Derechos Humanos",
         "language": "es",
         "prefix": "Curso: ",
         "title": "Sistema Interamericano de Derechos Humanos",
@@ -1507,7 +1540,7 @@
     },
     {
         "area": 1,
-        "genre": "Derecho",
+        "genre": "Derecho Constitucional",
         "language": "es",
         "prefix": "Seminario: ",
         "title": "Sala Constitucional: 30 años de justicia constitucional efectiva en Costa Rica",
@@ -1524,7 +1557,7 @@
     },
     {
         "area": 1,
-        "genre": "Derecho",
+        "genre": "Derecho Penal",
         "language": "es",
         "prefix": "Seminario: ",
         "title": "Derecho Procesal Penal 2019",
@@ -1552,8 +1585,7 @@
         "serie": "",
         "modality": 1,
         "type": 3
-    }
-    ,
+    },
     {
         "area": 3,
         "genre": "Oficina",
