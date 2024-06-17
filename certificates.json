@@ -32,6 +32,19 @@
         "type": 1
     },
     {
+        "area": 3,
+        "type": 0,
+        "modality": 1,
+        "genre": "Encuestas",
+        "language": "es",
+        "prefix": "",
+        "position": "Personal Entrevistador",
+        "entity": "Instituto Nacional de Estadística y Censos",
+        "hours": 8,
+        "start-date": "2024-06-17",
+        "end-date": "-"
+    },
+    {
         "area": 1,
         "type": 0,
         "modality": 1,
@@ -988,21 +1001,6 @@
         "type": 3
     },
     {
-        "area": 1,
-        "genre": "Derecho",
-        "language": "es",
-        "prefix": "Charla",
-        "title": "Preparación de una demanda eficaz, el escrito y su contestación",
-        "entity": "Colegio de Abogados y Abogadas de Costa Rica",
-        "hours": 2,
-        "date": "2023-11-30",
-        "expedition-date": "2023-12-15",
-        "link": "https://drive.google.com/file/d/1oIf6Hb46rN8H-j-I2-SQvTIxMMGc8MY8/",
-        "serie": "657cc487-4d18-47ce-b9c4-307bc0fc9d27",
-        "modality": 0,
-        "type": 3
-    },
-    {
         "area": 3,
         "genre": "Gestión de proyectos",
         "language": "es",
@@ -1031,6 +1029,21 @@
         "serie": "505a27787f793968d6c08c73570e1ef2dab0b1133d0d6432387e41b22a137187",
         "modality": 0,
         "type": 2
+    },
+    {
+        "area": 1,
+        "genre": "Derecho",
+        "language": "es",
+        "prefix": "Charla",
+        "title": "Preparación de una demanda eficaz, el escrito y su contestación",
+        "entity": "Colegio de Abogados y Abogadas de Costa Rica",
+        "hours": 2,
+        "date": "2023-11-30",
+        "expedition-date": "2023-12-15",
+        "link": "https://drive.google.com/file/d/1oIf6Hb46rN8H-j-I2-SQvTIxMMGc8MY8/",
+        "serie": "657cc487-4d18-47ce-b9c4-307bc0fc9d27",
+        "modality": 0,
+        "type": 3
     },
     {
         "area": 2,
