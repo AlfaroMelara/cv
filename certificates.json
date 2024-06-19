@@ -38,8 +38,9 @@
         "genre": "Encuestas",
         "language": "es",
         "prefix": "",
-        "position": "Personal Entrevistador",
+        "position": "Asistente Administrativo - Personal Entrevistador",
         "entity": "Instituto Nacional de Estadística y Censos",
+        "code": "2-4401",
         "hours": 8,
         "start-date": "2024-06-17",
         "end-date": "-"
@@ -53,6 +54,7 @@
         "prefix": "",
         "position": "Abogado",
         "entity": "Independiente",
+        "code": "",
         "hours": 8,
         "start-date": "2022-09-22",
         "end-date": "-"
@@ -66,6 +68,7 @@
         "prefix": "",
         "position": "Dependiente",
         "entity": "Minisuper Milenium",
+        "code": "",
         "hours": 4,
         "start-date": "2023-01-30",
         "end-date": "2023-09-03"
@@ -79,9 +82,25 @@
         "prefix": "",
         "position": "Dependiente",
         "entity": "Minisuper Milenium",
+        "code": "",
         "hours": 4,
         "start-date": "2017-01-02",
         "end-date": "2020-12-31"
+    },
+    {
+        "area": 1,
+        "genre": "Derecho Agrario",
+        "language": "es",
+        "prefix": "Charla",
+        "title": "Encuentro Académico Agrario: 30 años de la especialización de la defensa pública agraria",
+        "entity": "Colegio de Abogados y Abogadas de Costa Rica",
+        "hours": 16,
+        "date": "2024-06-07",
+        "expedition-date": "2024-06-18",
+        "link": "https://drive.google.com/file/d/1ILO-d1kvoHwasx-qUUJ5Xnz2Ld0HYfPC/",
+        "serie": "667206f3-b8d0-4b41-a04b-a3a8c0fc9a59",
+        "modality": 0,
+        "type": 3
     },
     {
         "area": 1,
