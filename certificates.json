@@ -89,6 +89,21 @@
     },
     {
         "area": 1,
+        "genre": "Derecho Laboral",
+        "language": "es",
+        "prefix": "Charla",
+        "title": "Responsabilidad Civil y Penal en las Relaciones Laborales",
+        "entity": "Colegio de Abogados y Abogadas de Costa Rica",
+        "hours": 5,
+        "date": "2024-06-22",
+        "expedition-date": "2024-07-15",
+        "link": "https://drive.google.com/file/d/1e-XXNdflM-3rccH1wgK-YCetVsZhZwyA/",
+        "serie": "66954b9f-2bf4-4b56-b201-8820c0fc9a59",
+        "modality": 0,
+        "type": 3
+    },
+    {
+        "area": 1,
         "genre": "Derecho Agrario",
         "language": "es",
         "prefix": "Charla",
