@@ -89,6 +89,21 @@
     },
     {
         "area": 1,
+        "genre": "Derecho Penal",
+        "language": "es",
+        "prefix": "Charla",
+        "title": "I Ciclo de Actualización en Derecho Penal",
+        "entity": "Colegio de Abogados y Abogadas de Costa Rica",
+        "hours": 5,
+        "date": "2024-07-09",
+        "expedition-date": "2024-07-30",
+        "link": "https://drive.google.com/file/d/1nyiUzIXYseuWX3cSFmj12imt6zNENcMe/",
+        "serie": "66a92479-c748-4f16-9c92-3f61c0fc9a59",
+        "modality": 0,
+        "type": 3
+    },
+    {
+        "area": 1,
         "genre": "Derecho Laboral",
         "language": "es",
         "prefix": "Charla",
