@@ -38,12 +38,13 @@
         "genre": "Encuestas",
         "language": "es",
         "prefix": "",
-        "position": "Asistente Administrativo - Personal Entrevistador",
+        "position": "Asistente Administrativo",
         "entity": "Instituto Nacional de Estadística y Censos",
         "code": "2-4401",
         "hours": 8,
         "start-date": "2024-06-17",
-        "end-date": "-"
+        "end-date": "2024-09-26",
+        "observations": "Personal Entrevistador"
     },
     {
         "area": 1,
@@ -88,6 +89,21 @@
         "end-date": "2020-12-31"
     },
     {
+        "area": 3,
+        "genre": "Electoral",
+        "language": "es",
+        "prefix": "Curso",
+        "title": "Elecciones en Costa Rica 2.0",
+        "entity": "Tribunal Supremo de Elecciones",
+        "hours": 14,
+        "date": "2024-08-25",
+        "expedition-date": "2024-08-25",
+        "link": "https://drive.google.com/file/d/1A8m_AhjiOxsbyx1UQ1o7GQQNeBiEIOCI/",
+        "serie": "0aCQsJFEp2",
+        "modality": 0,
+        "type": 2
+    },
+    {
         "area": 1,
         "genre": "Derecho Penal",
         "language": "es",
@@ -101,6 +117,21 @@
         "serie": "66a92479-c748-4f16-9c92-3f61c0fc9a59",
         "modality": 0,
         "type": 3
+    },
+    {
+        "area": 3,
+        "genre": "Igualdad",
+        "language": "es",
+        "prefix": "Curso",
+        "title": "Caminando Hacia la Igualdad",
+        "entity": "Dirección General de Servicio Civil",
+        "hours": 2,
+        "date": "2024-07-04",
+        "expedition-date": "2024-07-04",
+        "link": "https://drive.google.com/file/d/1YXHPpivL0HVB7XP7w1x8idLGA9AgGgaG/",
+        "serie": "",
+        "modality": 0,
+        "type": 2
     },
     {
         "area": 1,
@@ -1069,7 +1100,7 @@
         "genre": "Gestión de proyectos",
         "language": "es",
         "prefix": "Curso",
-        "title": "Fundamentos de la gestión de proyectos (2016)",
+        "title": "Fundamentos de la gestión de proyectos",
         "entity": "Project Management Institute",
         "hours": 3.25,
         "date": "2023-12-14",
