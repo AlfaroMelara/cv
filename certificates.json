@@ -32,6 +32,20 @@
         "type": 1
     },
     {
+        "area": 1,
+        "type": 0,
+        "modality": 1,
+        "genre": "Derecho Notarial y Registral",
+        "language": "es",
+        "prefix": "",
+        "position": "Notario Público",
+        "entity": "Independiente",
+        "code": "",
+        "hours": 8,
+        "start-date": "2024-12-19",
+        "end-date": "-"
+    },
+    {
         "area": 3,
         "type": 0,
         "modality": 1,
