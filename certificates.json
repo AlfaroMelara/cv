@@ -103,6 +103,21 @@
         "end-date": "2020-12-31"
     },
     {
+        "area": 1,
+        "genre": "Litigio Oral",
+        "language": "es",
+        "prefix": "Curso",
+        "title": "Litigio Oral",
+        "entity": "Colegio de Abogados y Abogadas de Costa Rica",
+        "hours": 53,
+        "date": "2024-11-23",
+        "expedition-date": "2025-01-08",
+        "link": "https://drive.google.com/file/d/1MoixzhlDpGGo5KD_PjWTqibbgJ1rmM-o/",
+        "serie": "",
+        "modality": 0,
+        "type": 3
+    },
+    {
         "area": 2,
         "genre": "Inteligencia Artificial",
         "language": "es",
