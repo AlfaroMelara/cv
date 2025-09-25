@@ -59,6 +59,21 @@
         "start-date": "2024-12-19",
         "end-date": "-"
     },
+        {
+        "area": 3,
+        "type": 0,
+        "modality": 1,
+        "genre": "Encuestas",
+        "language": "es",
+        "prefix": "",
+        "position": "Asistente Administrativo",
+        "entity": "Instituto Nacional de Estadística y Censos",
+        "code": "2-4736",
+        "hours": 8,
+        "start-date": "2025-06-23",
+        "end-date": "2025-08-13",
+        "observations": "Personal Entrevistador"
+    },
     {
         "area": 3,
         "type": 0,
